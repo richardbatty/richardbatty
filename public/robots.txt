@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://richardbatty.com/sitemap.xml 
+Sitemap: http://richardbatty.github.io/sitemap.xml 
