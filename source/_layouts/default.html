@@ -4,11 +4,11 @@
   <header role="banner">{% include header.html %}</header>
   <nav role="navigation">{% include navigation.html %}</nav>
   <div id="main">
-    <div id="content">
+    <div id="content" class="col-2-3">
       {{ content | expand_urls: root_url }}
     </div>
   </div>
-  <footer role="contentinfo">{% include footer.html %}</footer>
-  {% include after_footer.html %}
+<!--   <footer role="contentinfo">{% include footer.html %}</footer>
+  {% include after_footer.html %} -->
 </body>
 </html>

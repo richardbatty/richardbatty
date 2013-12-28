@@ -1,15 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2013-09-22T10:02:34+01:00</lastmod>
+        <loc>
+            http://richardbatty.com/blog/intelligence-matters-more-than-you-think-for-career-success/
+        </loc>
+        <lastmod>2013-12-27T21:22:19+00:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2013-09-22T10:02:34+01:00</lastmod>
+        <loc>http://richardbatty.com/about/</loc>
+        <lastmod>2013-12-27T19:11:10+00:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
+        <loc>http://richardbatty.com/blog/archives/</loc>
+        <lastmod>2013-12-27T21:22:19+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://richardbatty.com/blog/</loc>
+        <lastmod>2013-12-27T21:22:19+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://richardbatty.com/</loc>
+        <lastmod>2013-12-27T19:11:10+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://richardbatty.com/robots.txt</loc>
         <lastmod>2013-09-22T10:02:34+01:00</lastmod>
     </url>
 </urlset>
