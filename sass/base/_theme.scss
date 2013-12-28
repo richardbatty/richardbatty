@@ -18,7 +18,7 @@ $title-color: #f2f2f2 !default;
 $subtitle-color: #aaa !default;
 
 $text-color: #333 !default;
-$text-color-light: #999 !default;
+$text-color-light: #777 !default;
 $type-border: #ddd !default;
 
 /* Navigation */
@@ -65,9 +65,6 @@ a {
 }
 aside.sidebar a {
   @include link-colors($sidebar-link-color, $hover: $sidebar-link-color-hover, $focus: $sidebar-link-color-hover, $active: $sidebar-link-color-active);
-}
-a {
-  @include transition(color .3s);
 }
 
 html {
